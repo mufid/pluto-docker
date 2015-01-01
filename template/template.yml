@@ -1,0 +1,6 @@
+site_title: Your Site Title
+feed_urls:
+  - http://example.com/rss.xml
+  - http://anothersite.com/?getfeed&type=atom
+
+# EOF - DO NOT DELETE THIS
